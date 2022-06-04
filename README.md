@@ -1,0 +1,2 @@
+# checkersAI
+Checkers AI
