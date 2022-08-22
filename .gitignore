@@ -1,5 +1,8 @@
 .vscode/
 build/
+rust/target/
+
+Cargo.lock
 
 # Prerequisites
 *.d
